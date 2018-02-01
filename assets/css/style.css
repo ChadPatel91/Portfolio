@@ -1,5 +1,44 @@
 body {
 
   background: yellow
-  
+
 }
+.headeritems{
+
+  background: red;
+  display: inline-block;
+  width:100%
+ 
+ 
+}
+
+.header {
+ 
+  background: blue;
+  padding: 20px;
+  float: left;
+  margin: 0px;
+  margin-left: 350px;
+}
+
+nav {
+
+  padding: 30px;
+  margin-right: 250px;
+  float: right;
+}
+
+.midsection {
+  background-color: grey;
+  padding: 80px;
+  margin: 0 auto;
+  margin-top: 20px;
+}
+
+.footeritems {
+  background-color: grey;
+  padding: 80px;
+  margin: 0 auto;
+  margin-top: 20px;
+}
+
